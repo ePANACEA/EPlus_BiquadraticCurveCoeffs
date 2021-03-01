@@ -1,4 +1,5 @@
 # EPlus_BiquadraticCurveCoeffs
+Calculation of coefficients from manufacturers' data for biquadratic curves associated to E+ objects related to heat pumps and chillers modelling.
 z = C1 + C2x + C3x^2 + C4y + C5y^2 + C6xy
 
 Heat Pump / Heating mode (Coil:WaterHeating:AirToWaterPump:Pumped)
